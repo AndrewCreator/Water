@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: cb8cb9a0656fcf24e868d543682d3307
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8388643758361973776
+    second: "\u041E\u0437\u0435\u0440\u043E_0"
+  - first:
+      213: -3846319257217993007
+    second: "\u041E\u0437\u0435\u0440\u043E_1"
+  - first:
+      213: -1054670191533908744
+    second: "\u041E\u0437\u0435\u0440\u043E_2"
+  - first:
+      213: -5135263071524782059
+    second: "\u041E\u0437\u0435\u0440\u043E_3"
+  - first:
+      213: -5938854345723946922
+    second: "\u041E\u0437\u0435\u0440\u043E_4"
+  - first:
+      213: -7282284798201911921
+    second: "\u041E\u0437\u0435\u0440\u043E_5"
+  - first:
+      213: 1558727225845278416
+    second: "\u041E\u0437\u0435\u0440\u043E_6"
+  - first:
+      213: 6131947033212183637
+    second: "\u041E\u0437\u0435\u0440\u043E_7"
+  - first:
+      213: -8001990638000496439
+    second: "\u041E\u0437\u0435\u0440\u043E_8"
+  - first:
+      213: 7662612189570959902
+    second: "\u041E\u0437\u0435\u0440\u043E_9"
+  - first:
+      213: 638069230390743509
+    second: "\u041E\u0437\u0435\u0440\u043E_10"
+  - first:
+      213: 1579276288095124783
+    second: Lake_1
+  - first:
+      213: -2756642988610070052
+    second: Lake_1
+  - first:
+      213: 647284691614146643
+    second: Lake_0
+  - first:
+      213: -4584270140210879709
+    second: Lake_4
+  - first:
+      213: -3440923201084453131
+    second: Lake_4
+  - first:
+      213: -8379443639263760728
+    second: Lake_2
+  - first:
+      213: -3184021536860996706
+    second: Lake_6
+  - first:
+      213: 8928375972090632849
+    second: Lake_7
+  - first:
+      213: 2454576949733682523
+    second: Lake_8
+  - first:
+      213: 2909930504778700404
+    second: Lake_3
+  - first:
+      213: -6403731091370447295
+    second: Lake_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lake_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db4edc40ab6fc49bf30efe70696e50
+      internalID: 1579276288095124783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lake_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037625846e69c3143b0d15b9dd79d9bf
+      internalID: 647284691614146643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lake_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0afdf415f10a82449f5aa4dc0dac2cd
+      internalID: -4584270140210879709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lake_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ddcc15f2021964d9320fb5c79a209e
+      internalID: -8379443639263760728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lake_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4263da802f7859409231b6bcc55a440
+      internalID: 2909930504778700404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

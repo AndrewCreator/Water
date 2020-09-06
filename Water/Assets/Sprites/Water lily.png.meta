@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 933945aa088e29b4dac881d022976bb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1801714989451933887
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_0"
+  - first:
+      213: -5253788313425840461
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_1"
+  - first:
+      213: -4744169255616663836
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_2"
+  - first:
+      213: 4970122268982526527
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_3"
+  - first:
+      213: -582195869753419309
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_4"
+  - first:
+      213: -3303264329964598729
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_5"
+  - first:
+      213: 6575009548069902446
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_6"
+  - first:
+      213: 7409211429327246584
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_7"
+  - first:
+      213: 5893265506808747102
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_8"
+  - first:
+      213: -4727385804813508817
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_9"
+  - first:
+      213: -8108764203173760362
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_10"
+  - first:
+      213: 3097355229305878291
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_11"
+  - first:
+      213: 1109337122646593753
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_12"
+  - first:
+      213: 5485094596056148791
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_13"
+  - first:
+      213: 6211234552897434612
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_14"
+  - first:
+      213: 7449825915510071774
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_15"
+  - first:
+      213: -5657997571325469938
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_16"
+  - first:
+      213: 2906994208256948636
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_17"
+  - first:
+      213: -3890227185960985932
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_18"
+  - first:
+      213: 808080376902860379
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_19"
+  - first:
+      213: 725475038014505139
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_20"
+  - first:
+      213: 8241057874139825645
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_21"
+  - first:
+      213: 2795519058307653940
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_22"
+  - first:
+      213: -1923575888035158209
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_23"
+  - first:
+      213: -4095612173501613420
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_24"
+  - first:
+      213: 3405540478324392213
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_25"
+  - first:
+      213: 7061434103217405721
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_26"
+  - first:
+      213: 7415563870804220777
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_27"
+  - first:
+      213: -9014713501423622034
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_28"
+  - first:
+      213: -7912442426625208141
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_29"
+  - first:
+      213: 3310804684883064752
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_30"
+  - first:
+      213: 2360811958105391919
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_31"
+  - first:
+      213: 5707213194712739201
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_32"
+  - first:
+      213: 2852777688392165020
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_33"
+  - first:
+      213: 5026162033464877333
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_34"
+  - first:
+      213: 3852893682139510197
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_35"
+  - first:
+      213: -4625873352103064964
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_36"
+  - first:
+      213: 5037914699920509691
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_37"
+  - first:
+      213: 7991368468362479404
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_38"
+  - first:
+      213: 2864752494187127168
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_39"
+  - first:
+      213: -2378715457290568247
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_40"
+  - first:
+      213: -5276021682247180735
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_41"
+  - first:
+      213: 2041456731550192095
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_42"
+  - first:
+      213: -2404537589988838123
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_43"
+  - first:
+      213: 6634791587379630897
+    second: "\u041A\u0443\u0432\u0448\u0438\u043D\u043A\u0438_44"
+  - first:
+      213: -3146296138868900779
+    second: Water lily_0
+  - first:
+      213: -3225486137554666220
+    second: Water lily_1
+  - first:
+      213: -6669593430113227050
+    second: Water lily_1
+  - first:
+      213: -1816862568760461926
+    second: Water lily_3
+  - first:
+      213: -6296999456193086551
+    second: Water lily_4
+  - first:
+      213: 3229902146720478366
+    second: Water lily_5
+  - first:
+      213: -150693092153027467
+    second: Water lily_2
+  - first:
+      213: -8162890222704117734
+    second: Water lily_7
+  - first:
+      213: -5690631171685664254
+    second: Water lily_3
+  - first:
+      213: -8539552971529902620
+    second: Water lily_9
+  - first:
+      213: -4684497178532578941
+    second: Water lily_10
+  - first:
+      213: 8096798165820733493
+    second: Water lily_11
+  - first:
+      213: -3956996925895515773
+    second: Water lily_4
+  - first:
+      213: -3625117984131178201
+    second: Water lily_13
+  - first:
+      213: 3639011995991742605
+    second: Water lily_5
+  - first:
+      213: -8666360624781001016
+    second: Water lily_15
+  - first:
+      213: 1754026285200656067
+    second: Water lily_16
+  - first:
+      213: -2705308226254093827
+    second: Water lily_17
+  - first:
+      213: 8537038522911025771
+    second: Water lily_6
+  - first:
+      213: -5524767444747352253
+    second: Water lily_19
+  - first:
+      213: -201499366927525749
+    second: Water lily_7
+  - first:
+      213: 560949997661892944
+    second: Water lily_21
+  - first:
+      213: -5814049224946370675
+    second: Water lily_22
+  - first:
+      213: -5707889234126474290
+    second: Water lily_23
+  - first:
+      213: 1036499626312827900
+    second: Water lily_8
+  - first:
+      213: -8716079802870535022
+    second: Water lily_25
+  - first:
+      213: -6588083097835462390
+    second: Water lily_9
+  - first:
+      213: 875559371090997596
+    second: Water lily_27
+  - first:
+      213: 3345035729020454768
+    second: Water lily_28
+  - first:
+      213: -6699505222764764963
+    second: Water lily_29
+  - first:
+      213: 658866076236954775
+    second: Water lily_10
+  - first:
+      213: -2496487984550668495
+    second: Water lily_31
+  - first:
+      213: 7278223118529184971
+    second: Water lily_11
+  - first:
+      213: 7320126091349846981
+    second: Water lily_33
+  - first:
+      213: 2235417594571466086
+    second: Water lily_34
+  - first:
+      213: 1224017745406554785
+    second: Water lily_35
+  - first:
+      213: 8204538632604461374
+    second: Water lily_12
+  - first:
+      213: -3117578586515812864
+    second: Water lily_37
+  - first:
+      213: 4748793039351345790
+    second: Water lily_13
+  - first:
+      213: 2277560160458668112
+    second: Water lily_39
+  - first:
+      213: -3674522982211208021
+    second: Water lily_40
+  - first:
+      213: -4253764210198622612
+    second: Water lily_41
+  - first:
+      213: 7147047373188608290
+    second: Water lily_14
+  - first:
+      213: -8509228978570037013
+    second: Water lily_43
+  - first:
+      213: -4560053734826626987
+    second: Water lily_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water lily_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdcd2b8db7f7534881b8b8610974ea1
+      internalID: -3146296138868900779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 897
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0bfa3bc73166345b3630caa071d39e
+      internalID: -6669593430113227050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf11810383bd5499a1122e2925266a
+      internalID: -150693092153027467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 769
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3558b2e91105f543ab1b289007c29af
+      internalID: -5690631171685664254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c649e0492b4db4d48836de0eeb279f4e
+      internalID: -3956996925895515773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 641
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82b3fc62d823c742b8b252df9094b64
+      internalID: 3639011995991742605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb90cbd7d51d440b03f2b196e509af
+      internalID: 8537038522911025771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 513
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74cf5e1d99544e418b9fd6f65c2765d
+      internalID: -201499366927525749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9da294eb7cc2c4faa0bf40152d5b77
+      internalID: 1036499626312827900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 385
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e42839768921e4dbba37b2e122cc37
+      internalID: -6588083097835462390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454118306d7ac34418f6cde4db6a0f4d
+      internalID: 658866076236954775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a176c3fd0adcd4944b427d77191720b6
+      internalID: 7278223118529184971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde7c153d208ae4fb4227d64254524d
+      internalID: 8204538632604461374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914627fdaaf21e94898bca01052647cb
+      internalID: 4748793039351345790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf87a56c8783a14d8dc5752fb4421d2
+      internalID: 7147047373188608290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water lily_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60486999d0113e54aafb2259098c28be
+      internalID: -4560053734826626987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
