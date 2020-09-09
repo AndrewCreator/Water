@@ -4495,8 +4495,8 @@ GameObject:
   m_Component:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
-  - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420029}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -4521,13 +4521,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9c5fc8188a47e94bba2f966819031ed, type: 3}
+  m_Script: {fileID: 11500000, guid: 6c8bdf3d8f6be994ca7c99f2771a4b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minZoom: 1
-  maxZoom: 8
-  zoomSize: 0
-  zoomSpeed: 150
+  maxDistanceForTap: 40
+  maxDurationForTap: 0.4
+  useMouse: 1
+  mouseScrollSpeed: 1.2
+  controlCamera: 1
+  cam: {fileID: 519420031}
+  ignoreUI: 0
+  useBounds: 1
+  boundMinX: -150
+  boundMaxX: 150
+  boundMinY: -150
+  boundMaxY: 150
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
